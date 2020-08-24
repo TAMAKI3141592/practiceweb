@@ -1,0 +1,67 @@
+body{
+  color: black;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+}
+
+header{
+  background-color: gainsboro;
+}
+
+.container{
+  background-color: gainsboro;
+  width: 600px; height: 450px;
+  
+  
+}
+
+.icon img{
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: red; 
+
+}
+
+.info h1{
+  font-size: 45px;
+}
+
+.info p{
+  font-size: 20px;
+}
+
+.info ul{
+  list-style-type: none;
+  display: flex;
+}
+
+.you img{
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: white;
+  margin-left: auto;
+}
+.you p{
+  margin: 0;
+  margin-left: 50px;
+  margin-left: auto;
+}
+
+.twi p{
+ margin: 0;
+ margin-left: 50px;
+ margin-left: auto;
+}
+.detail img{
+border-style: solid;
+border-width: 4px;
+border-color: orange;
+}
+
+.footer p {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
